@@ -1,0 +1,9 @@
+Building HOPE
+
+See doc/readme-qt.rst for instructions on building HOPE QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of HOPE.
+
+See doc/build-*.txt for instructions on building hoped,
+the intended-for-services, no-graphical-interface, reference
+implementation of HOPE.
